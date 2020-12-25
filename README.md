@@ -3,7 +3,7 @@
 
 - Entertainment: Television Game Show
 
-- A descriptive data analysis was performed on Jeopardy game data. 216,930 rows were imported, cleaned, and analyzed. Analysis of the difficulty level of specific topics in the game Jeopary by determining the average value of questions containing a given keyword, with the idea that identifying these high value questions can be used as a successful strategy to win the game.
+- A descriptive data analysis was performed on Jeopardy game data. 216,930 rows were imported, cleaned, and analyzed. Analysis of the difficulty level of specific topics in the game Jeopardy by determining the average value of questions containing a given keyword, with the idea that identifying these high value questions can be used as a successful strategy to win the game.
 
 - 216,930 rows of data set that includes 7 features.
 
